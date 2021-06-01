@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/635732/120242342-f2be2d80-c264-11eb-86b3-f9e02267cf36.png)
 
 2. What does the following print? Add your answer as a multi-line comment
-3. 
+
 ![image](https://user-images.githubusercontent.com/635732/120242468-344ed880-c265-11eb-9b96-17e360eff6f6.png)
 
 3. What does the following print? Add your answer as a multi-line comment
